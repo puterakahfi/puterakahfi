@@ -1,87 +1,67 @@
 <!--
-Redesigned with redesign-workflow and github-profile.
-Brand lock: zen, calm editorial, purposeful whitespace, no decorative lines or cards.
+Generated with github-profile@1.3.0.
+Active variant: modern-professional.
+Brand adaptation: contemporary hierarchy without cards, dividers, or stats widgets.
 -->
-
-<div align="center">
 
 ### Putera Kahfi
 
-Software Engineer · Native AI Engineering · Product & Design Systems
+**Software Engineer · Native AI Engineering · Product & Design Systems**
 
-#### Building systems where AI agents operate through explicit roles, contracts, skills, and evidence.
+I build software and agent-driven systems where roles, contracts, skills, decisions, and review evidence remain explicit.
 
-I connect software architecture, product design, and agent-driven development.<br>
-The goal: safer decisions, verifiable results, and systems that learn from evidence.
+[Selected systems](#selected-systems) · [Operating model](#operating-model) · [Connect](#connect)
 
-[Selected work](#selected-work) · [Engineering thesis](#engineering-thesis) · [Connect](#connect)
+<a id="selected-systems"></a>
 
-</div>
-
-<br>
-
-<a id="selected-work"></a>
-
-### Selected work
+### Selected systems
 
 #### [AI Native Skills →](https://github.com/puterakahfi/ai-native-skills)
 
-Reusable engineering and design capabilities for coding agents.
+**Reusable engineering and design capabilities for coding agents.**
 
-*Creator and maintainer · Open source · Actively refined*
-
-Turns engineering, product, design, review, and delivery practices into bounded skills with explicit quality gates.
-
-<br>
+**Ownership:** Creator and maintainer  
+**State:** Open source · Actively refined  
+**Contribution:** Turns engineering, product, design, review, and delivery practices into bounded skills with explicit quality gates.
 
 #### [Native AI Core →](https://github.com/puterakahfi/ai-native-core)
 
-Runtime-agnostic contracts for Native AI Engineering.
+**Runtime-agnostic contracts for Native AI Engineering.**
 
-*Framework and contract designer · Open source · Public core*
-
-Defines domain concepts, lifecycle rules, ports, contracts, and adapter boundaries.
-
-<br>
+**Ownership:** Framework and contract designer  
+**State:** Open source · Public core  
+**Contribution:** Defines domain concepts, lifecycle rules, ports, contracts, and adapter boundaries.
 
 #### [VisualMate →](https://www.visualmate.id/)
 
-AI Creative Control System for structured, reviewable creative workflows.
+**AI Creative Control System for structured, reviewable creative workflows.**
 
-*Product builder and system designer · Private implementation*
+**Ownership:** Product builder and system designer  
+**State:** Product · Private implementation  
+**Contribution:** Connects product direction, workflow architecture, design systems, and AI-assisted creative production.
 
-Connects product direction, workflow architecture, design systems, and AI-assisted creative production.
+<a id="operating-model"></a>
 
-<br>
+### Operating model
 
-<a id="engineering-thesis"></a>
-
-### Engineering thesis
-
-**AI agents should not only generate artifacts. They should improve the engineering system that produces them.**
+**AI agents should improve the engineering system that produces their output—not only generate more artifacts.**
 
 *Context → Decision → Implementation → Verification → Learning*
 
-- **Explicit boundaries over hidden assumptions.** Roles, contracts, ports, and ownership remain visible.
-- **Evidence before completion claims.** Generated output is unfinished until it has been tested and reviewed.
-- **Universal principles, contextual implementation.** Principles travel across mediums; implementation remains contextual.
+- **Explicit boundaries** — roles, contracts, ports, and ownership remain visible.
+- **Evidence before completion** — generated output is unfinished until tested and reviewed.
+- **Contextual implementation** — architecture and design principles travel; implementation rules adapt.
 
-<br>
+### Core capabilities
 
-### Working across
-
-- **Software architecture** — domain-driven design, ports-and-adapters, API contracts, and event-driven systems.
-- **Product engineering** — Go, PHP, Next.js, Docker, modular systems, and developer experience.
-- **Native AI systems** — agent roles, skills, context, orchestration, behavioral evaluation, and review gates.
-- **Design systems** — hierarchy, adaptive components, cross-medium design, and evidence-backed review.
-
-<br>
+**Software architecture** — domain-driven design, ports-and-adapters, API contracts, and event-driven systems.  
+**Product engineering** — Go, PHP, Next.js, Docker, modular systems, and developer experience.  
+**Native AI systems** — agent roles, skills, context, orchestration, behavioral evaluation, and review gates.  
+**Design systems** — hierarchy, adaptive components, cross-medium design, and evidence-backed review.
 
 ### Current focus · July 2026
 
 Refining Native AI Engineering into a practical public framework while testing reusable design capabilities across UI, static visuals, identity systems, and constrained documents.
-
-<br>
 
 <a id="connect"></a>
 
