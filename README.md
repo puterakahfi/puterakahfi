@@ -1,87 +1,79 @@
 <!--
 Generated with github-profile@1.3.0.
-Active variant: creative-editorial.
-Expressive device: numbered systems + authored editorial section language.
-Brand adaptation: no H1/H2 divider lines, cards, or decorative containers.
+Active variant: modern-professional.
+Brand adaptation: contemporary hierarchy without cards, dividers, or stats widgets.
 -->
-
-<div align="center">
 
 ### Putera Kahfi
 
 Software Engineer · Native AI Engineering · Product & Design Systems
 
-#### I am interested in the space between a generated artifact and a system that can explain, verify, and improve it.
+**Building AI-native engineering systems where roles, decisions, implementation, and verification remain explicit.**
 
-Software architecture, product design, and agent-driven development are the materials.<br>
-Explicit roles, contracts, skills, decisions, and evidence are the method.
+I work across software architecture, product design, and agent-driven development.
 
-[Systems in motion](#systems-in-motion) · [The practice](#the-practice) · [Open paths](#open-paths)
+[Selected systems](#selected-systems) · [Operating model](#operating-model) · [Connect](#connect)
 
-</div>
+<a id="selected-systems"></a>
 
-<a id="systems-in-motion"></a>
+### Selected systems
 
-### Systems in motion
+#### [AI Native Skills →](https://github.com/puterakahfi/ai-native-skills)
 
-#### 01 · [AI Native Skills →](https://github.com/puterakahfi/ai-native-skills)
+Reusable engineering and design capabilities for coding agents.
 
-*Premise — reusable engineering and design capabilities for coding agents.*
+*Creator and maintainer · Open source · Actively refined*
 
-I create and maintain a system that turns engineering, product, design, review, and delivery practices into bounded skills with explicit quality gates.
-
-*Evidence — Open source · Actively refined*
+Turns engineering, product, design, review, and delivery practices into bounded skills with explicit quality gates.
 
 <br>
 
-#### 02 · [Native AI Core →](https://github.com/puterakahfi/ai-native-core)
+#### [Native AI Core →](https://github.com/puterakahfi/ai-native-core)
 
-*Premise — runtime-agnostic contracts for Native AI Engineering.*
+Runtime-agnostic contracts for Native AI Engineering.
 
-I design the shared domain concepts, lifecycle rules, ports, contracts, and adapter boundaries that keep runtime and product implementations aligned.
+*Framework and contract designer · Open source · Public core*
 
-*Evidence — Open source · Public core*
-
-<br>
-
-#### 03 · [VisualMate →](https://www.visualmate.id/)
-
-*Premise — an AI Creative Control System for structured, reviewable creative workflows.*
-
-I connect product direction, workflow architecture, design systems, and AI-assisted creative production as product builder and system designer.
-
-*Evidence — Active product · Private implementation*
+Defines domain concepts, lifecycle rules, ports, contracts, and adapter boundaries.
 
 <br>
 
-<a id="the-practice"></a>
+#### [VisualMate →](https://www.visualmate.id/)
 
-### The practice
+AI Creative Control System for structured, reviewable creative workflows.
 
-**AI agents should not only generate artifacts. They should improve the engineering system that produces them.**
+*Product builder and system designer · Product · Private implementation*
+
+Connects product direction, workflow architecture, design systems, and AI-assisted creative production.
+
+<br>
+
+<a id="operating-model"></a>
+
+### Operating model
+
+**AI agents should improve the engineering system that produces their output—not only generate more artifacts.**
 
 *Context → Decision → Implementation → Verification → Learning*
 
-#### Principles in practice
+- **Explicit boundaries** — roles, contracts, ports, and ownership remain visible.
+- **Evidence before completion** — generated output is unfinished until tested and reviewed.
+- **Contextual implementation** — architecture and design principles travel; implementation rules adapt.
 
-- **Make boundaries visible.** Roles, contracts, ports, and ownership should be inspectable.
-- **Require evidence.** Generated output remains unfinished until it has been tested and reviewed.
-- **Let principles travel.** Architecture and design foundations remain reusable while implementation adapts to context.
+### Working across
 
-#### Working materials
+*Current focus · July 2026*
 
-- **Software architecture** — DDD, ports-and-adapters, API contracts, event-driven systems
-- **Product engineering** — Go, PHP, Next.js, Docker, modular delivery
-- **Native AI systems** — roles, skills, context, orchestration, evaluation
-- **Design systems** — hierarchy, adaptive components, cross-medium review
+Currently refining Native AI Engineering into a practical public framework while testing reusable design capabilities across UI, static visuals, identity systems, and constrained documents.
 
-### Current field notes · July 2026
+- **Software architecture** — domain-driven design, ports-and-adapters, API contracts, and event-driven systems.
+- **Product engineering** — Go, PHP, Next.js, Docker, modular systems, and developer experience.
+- **Native AI systems** — agent roles, skills, context, orchestration, behavioral evaluation, and review gates.
+- **Design systems** — hierarchy, adaptive components, cross-medium design, and evidence-backed review.
 
-Refining Native AI Engineering into a practical public framework while testing reusable design capabilities across UI, static visuals, identity systems, and constrained documents.
+<a id="connect"></a>
 
-<a id="open-paths"></a>
-
-### Open paths
+### Connect
 
 [GitHub](https://github.com/puterakahfi) · [pkahfi.com](https://pkahfi.com/) · [AI products and resources](https://ai.pkahfi.com/) · [VisualMate](https://www.visualmate.id/)
 
